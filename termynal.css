@@ -62,7 +62,7 @@
     display: inline-block;
     vertical-align: middle;
 }
-[data-ty]:hover {
+[data-ty]:hover a{
     /* Set up defaults and ensure empty lines are displayed. */
     color: #00ff2e;
 }
