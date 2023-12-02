@@ -62,6 +62,10 @@
     display: inline-block;
     vertical-align: middle;
 }
+[data-ty]:hover {
+    /* Set up defaults and ensure empty lines are displayed. */
+    color: #00ff2e;
+}
 
 [data-ty="input"]:before,
 [data-ty-prompt]:before {
