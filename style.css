@@ -5,14 +5,13 @@ body {
   text-align:center;
 }
 
-@font-face {
-  font-family: 'PunkB';
-  src: url('/assets/fonts/punkb.ttf') format('truetype');
-}
+
 .bigtxt {
   font-size:325px;
-  font-family: 'PunkB', sans-serif;
   color:white;
+}
+.textunder {
+  
 }
 #particles-js {
   position: fixed;
