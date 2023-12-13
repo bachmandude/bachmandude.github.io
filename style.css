@@ -9,13 +9,13 @@ h1 a { text-decoration:none; color:inherit; }
   position: relative;
 }
 .bigtxt {
+  margin-top:45%;
   font-size:325px;
   color:white;
 }
 .undertxt {
   font-size:50px;
   color:white;
-  text-align:center;
 }
 #particles-js {
   position: fixed;
