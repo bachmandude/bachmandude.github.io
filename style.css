@@ -4,14 +4,16 @@ body {
   background-color: #000;
   text-align:center;
 }
-
-
+.container {
+  position: relative;
+}
 .bigtxt {
   font-size:325px;
   color:white;
 }
 .textunder {
-  
+  color:white;
+  text-align:center;
 }
 #particles-js {
   position: fixed;
