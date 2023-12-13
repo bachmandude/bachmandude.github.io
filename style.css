@@ -6,11 +6,11 @@ body {
 }
 @font-face {
   font-family: 'Indigo';
-  src: url('/assets/fonts/indigo.otf') format('otf');
+  src: url('/assets/fonts/indigo.otf') format('opentype');
 }
 @font-face {
   font-family: 'Indigo Outline';
-  src: url('/assets/fonts/indigo_outline.otf') format('otf');
+  src: url('/assets/fonts/indigo_outline.otf') format('opentype');
 }
 .bigtxt {
   font-size:325px;
