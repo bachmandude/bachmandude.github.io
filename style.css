@@ -15,6 +15,7 @@ body {
 .bigtxt {
   font-size:325px;
   font-family: 'Indigo', sans-serif;
+  color:white;
 }
 #particles-js {
   position: fixed;
