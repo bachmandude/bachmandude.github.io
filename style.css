@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #000;
+  text-align:center;
 }
 @font-face {
   font-family: 'Indigo';
@@ -12,7 +13,7 @@ body {
   src: url('/assets/fonts/indigo_outline.otf') format('otf');
 }
 .bigtxt {
-  font-size:400px;
+  font-size:325px;
   font-family: 'Indigo', sans-serif;
 }
 #particles-js {
