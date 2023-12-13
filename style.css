@@ -12,6 +12,7 @@ body {
   color:white;
 }
 .undertxt {
+  top: 5px;
   font-size:50px;
   color:white;
   text-align:center;
